@@ -23,8 +23,8 @@ python app.py
 <h2>🖥 UI Interface</h2>
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/c886c9ea-84d9-45d6-a85e-a75ec0789152)" width="48%" />
-  <img src="(https://github.com/user-attachments/assets/f8614fe5-c9e3-438e-9930-7cbc9b765f50)" width="48%" />
+  <img src="https://github.com/user-attachments/assets/c886c9ea-84d9-45d6-a85e-a75ec0789152" width="48%" />
+  <img src="https://github.com/user-attachments/assets/f8614fe5-c9e3-438e-9930-7cbc9b765f50" width="48%" />
 </p>
 
 
