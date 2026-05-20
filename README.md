@@ -20,8 +20,12 @@ cd FF-Detection-Prevention
 pip install -r requirements.txt
 python app.py
 ```
-UI Interface
-<img width="649" height="351" alt="image" src="https://github.com/user-attachments/assets/c886c9ea-84d9-45d6-a85e-a75ec0789152" />
-<img width="582" height="315" alt="image" src="https://github.com/user-attachments/assets/f8614fe5-c9e3-438e-9930-7cbc9b765f50" />
+<h2>🖥 UI Interface</h2>
+
+<p align="center">
+  <img src="[YOUR_IMAGE_1_LINK](https://github.com/user-attachments/assets/c886c9ea-84d9-45d6-a85e-a75ec0789152)" width="48%" />
+  <img src="[YOUR_IMAGE_2_LINK](https://github.com/user-attachments/assets/f8614fe5-c9e3-438e-9930-7cbc9b765f50)" width="48%" />
+</p>
+
 
 
