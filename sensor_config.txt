@@ -1,0 +1,10 @@
+SENSOR THRESHOLDS (Optimized for 70.0% Accuracy)
+==================================================
+Logic: Trigger Alarm if 3 out of 5 conditions are met.
+--------------------------------------------------
+MAX_TEMP                  > 72.00
+MIN_TEMP                  > 60.72
+AVG_WIND_SPEED            > 7.16
+PRECIPITATION             <= 0.00
+LAGGED_PRECIPITATION      <= 0.00
+==================================================

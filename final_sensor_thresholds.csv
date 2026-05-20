@@ -1,0 +1,6 @@
+Feature,Operator,Threshold_Value,Logic
+MAX_TEMP,Min Limit (>),72,Higher is Risk
+MIN_TEMP,Min Limit (>),60.72,Higher is Risk
+AVG_WIND_SPEED,Min Limit (>),7.16,Higher is Risk
+PRECIPITATION,Max Limit (<),0,Lower is Risk
+LAGGED_PRECIPITATION,Max Limit (<),0,Lower is Risk

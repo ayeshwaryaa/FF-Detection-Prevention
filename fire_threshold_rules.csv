@@ -1,0 +1,6 @@
+Feature,Rule_Type,Critical_Threshold,Fire_Min,Fire_Max,Fire_Avg,Safe_Avg
+MAX_TEMP,Min Limit (>),70.0,56.0,106.0,74.33,68.66
+MIN_TEMP,Min Limit (>),58.0,35.0,77.0,60.99,54.27
+AVG_WIND_SPEED,Min Limit (>),6.71,2.24,18.12,7.53,7.39
+PRECIPITATION,Max Limit (<),0.0,0.0,3.12,0.0,0.05
+LAGGED_PRECIPITATION,Max Limit (<),0.0,0.0,5.32,0.03,0.32

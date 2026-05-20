@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# ML models
+*.pkl
+*.joblib
+models/
+
+# Datasets
+*.csv
+Datasets/
+
+# Keep important small CSVs
+!final_sensor_thresholds.csv
+!fire_threshold_rules.csv
+
+# Generated folders
+catboost_info/
+checkpoints/
+logs/
+precomputed_features/
+results/
+
+# React / Node
+node_modules/
+build/
+dist/
+
+# Environment files
+.env
+
+Major Project Final Docs To Be submitted/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,22 @@
+|--- MIN_TEMP <= 57.50
+|   |--- LAGGED_PRECIPITATION <= 0.06
+|   |   |--- MAX_TEMP <= 63.50
+|   |   |   |--- class: False
+|   |   |--- MAX_TEMP >  63.50
+|   |   |   |--- class: False
+|   |--- LAGGED_PRECIPITATION >  0.06
+|   |   |--- MAX_TEMP <= 64.50
+|   |   |   |--- class: False
+|   |   |--- MAX_TEMP >  64.50
+|   |   |   |--- class: False
+|--- MIN_TEMP >  57.50
+|   |--- MONTH <= 9.50
+|   |   |--- MONTH <= 4.50
+|   |   |   |--- class: False
+|   |   |--- MONTH >  4.50
+|   |   |   |--- class: True
+|   |--- MONTH >  9.50
+|   |   |--- MAX_TEMP <= 74.50
+|   |   |   |--- class: False
+|   |   |--- MAX_TEMP >  74.50
+|   |   |   |--- class: False
