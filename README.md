@@ -1,4 +1,4 @@
-Forest Fire Detection & Prevention using Deep Learning
+## Forest Fire Detection & Prevention using Deep Learning
 
 An AI-powered system for early forest fire detection using Deep Learning and Computer Vision techniques. The project identifies fire from images/video inputs and supports faster response mechanisms to minimize environmental damage and improve safety.
 
