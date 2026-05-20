@@ -15,7 +15,7 @@ Python • TensorFlow • Keras • OpenCV • Scikit-learn • NumPy • Stream
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/FF-Detection-Prevention.git
+git clone https://github.com/ayeshwaryaa/FF-Detection-Prevention.git
 cd FF-Detection-Prevention
 pip install -r requirements.txt
 python app.py
