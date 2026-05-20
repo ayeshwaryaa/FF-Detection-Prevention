@@ -9,10 +9,10 @@ An AI-powered system for early forest fire detection using Deep Learning and Com
 - User-friendly interface
 - Early warning support
 
-## 🛠 Tech Stack
+## Tech Stack
 Python • TensorFlow • Keras • OpenCV • Scikit-learn • NumPy • Streamlit/Flask
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/ayeshwaryaa/FF-Detection-Prevention.git
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python app.py
 ```
 ---
-## 🖥 UI Interface
+## UI Interface
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c886c9ea-84d9-45d6-a85e-a75ec0789152" width="48%" />
   <img src="https://github.com/user-attachments/assets/f8614fe5-c9e3-438e-9930-7cbc9b765f50" width="48%" />
